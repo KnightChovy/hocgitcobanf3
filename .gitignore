@@ -1,6 +1,6 @@
 .env 
 # viet ai gi vao day la cam cai do
-*.md
+.md
 abc/
 
 a/**/**.md 
